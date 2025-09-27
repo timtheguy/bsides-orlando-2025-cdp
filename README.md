@@ -1,6 +1,10 @@
 ### BSides Orlando 2025: Security Research with the Chrome DevTools Protocol
 [🔗 Check out the slides!](https://github.com/timtheguy/bsides-orlando-2025-cdp/blob/main/BSides%20Orlando%202025%20Security%20Research%20with%20the%20Chrome%20DevTools%20Protocol.pdf)
 
+#### Or, try out the mini-CTF...
+Up for a challenge? [🔗 Check it out](https://timtheguy.github.io/ctf)
+> Our competitor's data analytics service, 'InsightIQ', is running on our site. We've noticed a strange performance issue: every time a log message is displayed and removed from the screen, our browser's memory usage spikes momentarily. An anonymous source claims their script is attaching a 'tracking payload' to these temporary log elements just before they're destroyed. Your mission: use the Chrome DevTools Protocol to pause the browser at the exact moment an element is being removed, inspect its in-memory properties, and find the hidden payload. That payload is the flag.
+
 ### SecureShop 
 Welcome to SecureShop, a "very secure" checkout page for demonstrating the techniques in the slides above.
 
