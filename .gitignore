@@ -1,0 +1,47 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Webpack output
+/dist/app.js
+/dist/*.js.map
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Python virtual environments
+.venv/
+env/
+venv/
+
+# OS junk files
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore local test server cache
+*.pid
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Ignore any secrets or environment files
+.env
+.env.*
+
+# Ignore Chrome user data (if used)
+chrome-user-data/
