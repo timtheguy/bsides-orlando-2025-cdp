@@ -1,5 +1,8 @@
+### BSides Orlando 2025: Security Research with the Chrome DevTools Protocol
+[🔗 Check out the slides!](https://github.com/timtheguy/bsides-orlando-2025-cdp/blob/main/BSides%20Orlando%202025%20Security%20Research%20with%20the%20Chrome%20DevTools%20Protocol.pdf)
+
 ### SecureShop 
-Welcome
+Welcome to SecureShop, a "very secure" checkout page for demonstrating the techniques in the slides above.
 
 #### Build 
 We use an advanced bundling technique for our software. To install dependencies:
